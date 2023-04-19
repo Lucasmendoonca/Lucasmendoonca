@@ -1,6 +1,6 @@
 ### Bem-vindo! Eu sou o Lucas Mendonça 👾
 - Desenvolvedor/estudante de tecnologia 
-- Em busca do código perfeito 🔥
+
 
 Redes para contato:
  <br>
