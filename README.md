@@ -8,7 +8,7 @@ Redes para contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mendon%C3%A7a-9371b2263/)
 
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmendoonca&show_icons=true&theme=highcontrast)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmendoonca&show_icons=true&theme=dark)
 
 ### Conhecimentos tecnologicos:
 
