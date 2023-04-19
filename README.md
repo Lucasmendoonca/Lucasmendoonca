@@ -1,7 +1,4 @@
-### Olá! Eu sou o Lucas Mendonça!
-
-- 📚 Desenvolvedor/Estudante de tecnologia
-- 🌱 A ciência de hoje é a tecnologia de amanhã!
+### Olá! Eu sou o Lucas Mendonça 👾
 
 Redes para contato:
  <br>
