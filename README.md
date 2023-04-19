@@ -1,5 +1,5 @@
 ### Bem-vindo! Eu sou o Lucas Mendonça 
-- Desenvolvedor/estudante de tecnologia 
+- 📚 Desenvolvedor/Estudante de tecnologia
 
 
 Redes para contato:
