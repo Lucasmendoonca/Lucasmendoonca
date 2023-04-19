@@ -1,4 +1,4 @@
-### Bem-vindo! Eu sou o Lucas Mendonça 👾
+### Bem-vindo! Eu sou o Lucas Mendonça 
 - Desenvolvedor/estudante de tecnologia 
 
 
