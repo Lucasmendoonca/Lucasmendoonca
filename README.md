@@ -6,7 +6,7 @@ Redes para contato:
  <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mendon%C3%A7a-9371b2263/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cSRfBTZFHzlKscrLgJRQPCBxgtrwPtwWHbZXlcPVVmXrdhczCrzZSRNvjFbDWVppGjxbXtKsllLjWKkjNfxCsKbdxKrVVwrWLNpgNhTTbttNNgwfFBLkxvsrzwFvcmdqHWWlQBSwtCBTvSPShHqzTMBtpBpptsFg/)
+
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasmendoonca&show_icons=true&theme=highcontrast)
 
